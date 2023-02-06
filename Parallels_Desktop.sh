@@ -26,5 +26,6 @@ rm -rf ~/Library/Parallels
 rm -rf ~/Parallels
 rm -rf ~/Library/Keychains/parallels*
 rm -rf ~/Library/Caches/Parallels\ Software
+rm -rf ~/Applications\ \(Parallels\)
 
 echo done

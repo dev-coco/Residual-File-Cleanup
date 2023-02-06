@@ -14,5 +14,6 @@ rm -rf ~/Library/HTTPStorages/com.cleverfiles.DiskDrill
 rm -rf /private/var/folders/*/*/*/com.cleverfiles.DiskDrill
 rm -rf /Library/Application\ Support/CleverFiles
 rm -rf /Library/Logs/CleverFiles
+rm -rf ~/DiskDrill.log
 
 echo done

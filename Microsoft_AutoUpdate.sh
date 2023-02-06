@@ -15,5 +15,7 @@ rm -rf ~/Library/Caches/com.microsoft.autoupdate*
 rm -rf /Library/LaunchDaemons/com.microsoft.autoupdate.helper.plist
 rm -rf /Library/Logs/Microsoft/autoupdate.log
 rm -rf /Library/Application\ Support/Microsoft/MAU2.0
+rm -rf /Library/Caches/com.microsoft.autoupdate*
+rm -rf ~/Library/Caches/Microsoft/uls/com.microsoft.autoupdate*
 
 echo done

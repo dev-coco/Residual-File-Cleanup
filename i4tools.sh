@@ -10,5 +10,7 @@ rm -rf /Applications/i4tools.app
 rm -rf /private/var/folders/*/*/*/cn.i4tools.mac
 rm -rf /private/var/folders/*/*/*/cn.JailbreakTools.mac
 rm -rf ~/Downloads/i4ToolsDownloads
+rm -rf ~/Library/Application\ Support/i4Jailbreak
+rm -rf ~/Library/Caches/i4Jailbreak
 
 echo done
